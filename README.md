@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 
+I am a BCA student.
+Currently i am learning java + DSA 
+
 
 <!--
 **Varun881030/Varun881030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
